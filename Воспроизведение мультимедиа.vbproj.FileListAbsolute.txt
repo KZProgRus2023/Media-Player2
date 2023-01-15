@@ -1,0 +1,7 @@
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\Воспроизведение мультимедиа\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\Воспроизведение мультимедиа\obj\Debug\Interop.WMPLib.dll
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\Воспроизведение мультимедиа\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\Воспроизведение мультимедиа\obj\Debug\Воспроизведение мультимедиа.vbproj.ResolveComReference.cache
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\Воспроизведение мультимедиа\obj\Debug\Воспроизведение_мультимедиа.Form1.resources
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\Воспроизведение мультимедиа\obj\Debug\Воспроизведение_мультимедиа.Resources.resources
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\Воспроизведение мультимедиа\obj\Debug\Воспроизведение мультимедиа.vbproj.GenerateResource.Cache

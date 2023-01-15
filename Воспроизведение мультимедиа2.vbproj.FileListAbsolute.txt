@@ -1,0 +1,16 @@
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\Воспроизведение мультимедиа2\Воспроизведение мультимедиа2\obj\Debug\Воспроизведение мультимедиа2.vbproj.AssemblyReference.cache
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\Воспроизведение мультимедиа2\Воспроизведение мультимедиа2\obj\Debug\Interop.WMPLib.dll
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\Воспроизведение мультимедиа2\Воспроизведение мультимедиа2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\Воспроизведение мультимедиа2\Воспроизведение мультимедиа2\obj\Debug\Воспроизведение мультимедиа2.vbproj.ResolveComReference.cache
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\Воспроизведение мультимедиа2\Воспроизведение мультимедиа2\obj\Debug\Воспроизведение_мультимедиа.Form1.resources
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\Воспроизведение мультимедиа2\Воспроизведение мультимедиа2\obj\Debug\Воспроизведение_мультимедиа.Resources.resources
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\Воспроизведение мультимедиа2\Воспроизведение мультимедиа2\obj\Debug\Воспроизведение мультимедиа2.vbproj.GenerateResource.cache
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\Воспроизведение мультимедиа2\Воспроизведение мультимедиа2\obj\Debug\Воспроизведение мультимедиа2.vbproj.CoreCompileInputs.cache
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\Воспроизведение мультимедиа2\Воспроизведение мультимедиа2\bin\Debug\Воспроизведение мультимедиа2.exe
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\Воспроизведение мультимедиа2\Воспроизведение мультимедиа2\bin\Debug\Воспроизведение мультимедиа2.pdb
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\Воспроизведение мультимедиа2\Воспроизведение мультимедиа2\bin\Debug\Воспроизведение мультимедиа2.xml
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\Воспроизведение мультимедиа2\Воспроизведение мультимедиа2\bin\Debug\Interop.WMPLib.dll
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\Воспроизведение мультимедиа2\Воспроизведение мультимедиа2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\Воспроизведение мультимедиа2\Воспроизведение мультимедиа2\obj\Debug\Воспроизведение мультимедиа2.exe
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\Воспроизведение мультимедиа2\Воспроизведение мультимедиа2\obj\Debug\Воспроизведение мультимедиа2.xml
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\Воспроизведение мультимедиа2\Воспроизведение мультимедиа2\obj\Debug\Воспроизведение мультимедиа2.pdb
